@@ -1,7 +1,7 @@
 # **Sameer Jain** 
 ## UCSD Computer Science Class of 2024
 
-![This is an image of me](/pic.png | width=100)
+<img src="/pic.png" width="100" height="100">
 
 > Contact: s4jain@ucsd.edu
 
