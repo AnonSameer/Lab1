@@ -1,4 +1,4 @@
-# **Sameer Jain** 
+# ***Sameer Jain*** 
 ## UCSD Computer Science Class of 2024
 
 <img src="/pic.png" width="400" height="400">
